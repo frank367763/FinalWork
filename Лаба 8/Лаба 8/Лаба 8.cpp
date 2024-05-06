@@ -3,6 +3,8 @@
 #include <string.h>
 #include <windows.h>
 #define MAX_STROK 1000
+
+//ИТвПД приди ко мне
 void zamena(char strings[100][MAX_STROK], int min, int max)
 {
     char bufer[MAX_STROK];
