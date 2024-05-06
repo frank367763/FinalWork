@@ -1,0 +1,5 @@
+﻿  Лаба 8.cpp
+C:\Users\frank\source\repos\Лаба 8\Лаба 8\Лаба 8.cpp(28,19): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\frank\source\repos\Лаба 8\Лаба 8\Лаба 8.cpp(65,36): warning C4129: i: неизвестная escape-последовательность
+C:\Users\frank\source\repos\Лаба 8\Лаба 8\Лаба 8.cpp(99,38): warning C4129: o: неизвестная escape-последовательность
+  Лаба 8.vcxproj -> C:\Users\frank\source\repos\Лаба 8\x64\Debug\Лаба 8.exe
